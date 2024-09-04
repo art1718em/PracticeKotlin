@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_photo">Перейти к фото</string>
+    <string name="go_to_description">Перейти к описанию</string>
+    <string name="car_photo">Фото машины</string>
+    <string name="go_back">Вернуться назад</string>
+    <string name="description">BMW M3 (F80) — пятое поколение BMW M3. Было представлено на Североамериканском автосалоне в 2014 году. Одновременно с запуском новой модели с производства была снята предыдущая E90. Продажи автомобиля в Европе начались в марте 2014 года, а в России — летом 2014 года. F80 M3 продавался только в кузове седан. А купе и кабриолет выделены в отдельный модельный ряд M4. В 2015 году автомобиль прошёл рестайлинг.</string>
+</resources>
